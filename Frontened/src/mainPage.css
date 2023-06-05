@@ -1,0 +1,77 @@
+#body{
+    margin: 0px;
+    height: 745px;
+    box-sizing: border-box;
+    background-image: url("https://cdn.pixabay.com/photo/2015/12/30/03/09/background-1113715_960_720.jpg");
+    background-size: cover;
+    margin-top: -30px; 
+}
+
+#heading1{
+    color: white;
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    margin: 30px 120px;
+    text-shadow: 2px 2px 5px white;
+}
+
+#logo img{
+    height: 80px;
+    width: 80px;
+    color: aliceblue;
+    margin-bottom: -100px;
+    background-image: cover;
+    border-radius: 5px;
+}
+
+#logo{
+    margin-top: 530px;
+    margin-left: 50%;
+    
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-item:hover{
+    text-shadow: 2px 2px 5px white;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-nav #minLogo{
+    padding: 0px;
+    
+}
+
+#minLogo img{
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+    
+    
+}
+
+.icons a i{
+    margin: 50px;
+    margin-top: -50px;
+}
+
+.icons{
+    padding-bottom: -30px;
+}
+
+.facebook{
+    margin-left: 400px;
+}
+
+.footer{
+    margin-top: -10px;
+    margin-bottom: -50px;
+    margin-left: 200px;
+}

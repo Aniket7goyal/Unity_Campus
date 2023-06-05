@@ -1,0 +1,70 @@
+.body{
+    margin: 0px;
+    height: 745px;
+    box-sizing: border-box;
+    /* background-color: rgb(27, 149, 108); */
+    background-image: url('https://b.zmtcdn.com/data/reviews_photos/4c4/3de42262f053ef0dd63b247a865cc4c4_1584389447.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*');
+    background-size: cover;
+    padding: 100px;
+}
+
+
+#restForm{
+    height: 250px;
+    width: 350px;
+    border: 2px solid rgb(108, 134, 128);
+    margin: auto;
+    padding: 100px;
+    background-color: rgb(118, 132, 128);
+    align-items: center;
+    border-radius: 3px;
+}
+
+.heading{
+    margin-top: -20px;
+    margin-left: 40px; 
+    margin-bottom: -5px;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.entryField{
+    height: 250px;
+    width: 350px;
+    padding: 2px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border: 0px;
+    outline: none;
+    border-radius: 5px;
+}
+
+#addRest{
+    margin-top: 40px;
+    margin-bottom: 3%;
+    margin-left: 65px;
+    height: 30px;
+    width: 80px;
+    font-size: 20px;
+    background-color: rgb(126, 131, 130);
+    border: 0px;
+    border-radius: 5px; 
+    color: black;
+    margin-right: 40px;
+}
+
+#s:hover{
+    color: rgb(21, 22, 22);
+    background-color: rgb(110, 111, 111);
+}
+/* 
+#toSignup{
+    text-decoration: none;
+    color: black;
+}
+
+#toSignup:hover{
+    color: rgb(44, 45, 45);
+    font-size: large;
+} */
+
